@@ -1,0 +1,22 @@
+#Pycharm.
+.idea/
+*.pyc
+~*/
+
+## Windows shortcuts
+*.lnk
+
+# macOS nonsense
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows nonsense
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Ew
+desktop.ini
+
+
